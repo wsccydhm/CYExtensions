@@ -7,7 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
-
+#import "CTMediator/CTMediator.h"
 @interface AViewController : UIViewController
 
 @end
